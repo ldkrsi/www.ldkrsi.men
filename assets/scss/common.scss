@@ -1,0 +1,53 @@
+// #e2d00b
+
+.container {
+	padding-left: 5px;
+	padding-right: 5px;
+	max-width: 1080px;
+}
+
+header {
+	border-bottom: 1px solid rgb(230,230,230);
+	margin-bottom: 20px;
+	.brand {
+		font-weight: 700;
+		font-size: 27px;
+		line-height: 34px;
+		padding-top: 21px;
+		padding-left: 16px;
+		padding-bottom: 9px;
+		a {
+			color: black;
+		}
+	}
+	nav {
+		ul {
+			list-style: none;
+			display: flex;
+			
+			font-size: 16px;
+			line-height: 24px;
+			li {
+				padding: 7px 16px 9px;
+				a {
+					color: rgb(117, 117, 117);
+				}
+			}
+		}
+	}
+}
+
+footer {
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #111;
+	.copyright {
+		font-size: 14px;
+	}
+
+	@media (min-width: 768px) {
+		text-align: left;
+	}
+}

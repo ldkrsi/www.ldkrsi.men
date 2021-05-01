@@ -1,0 +1,11 @@
+extends layout.pug
+include mixin.pug
+
+block head
+	+metadata(title, 'test')
+	script(async custom-element='amp-imgur' src='https://cdn.ampproject.org/v0/amp-imgur-0.1.js')
+
+block main
+	article 
+		h1 #{title}
+		div !{article}

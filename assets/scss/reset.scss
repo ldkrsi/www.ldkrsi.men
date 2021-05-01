@@ -1,0 +1,57 @@
+div,
+p,
+header,
+footer,
+section,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+table,
+thead,
+tbody,
+tr,
+td,
+th,
+a,
+small,
+nav,
+amp-script {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	font: inherit;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #0f09ff;
+	cursor: pointer;
+
+	&:hover,
+	&:active {
+		text-decoration: underline;
+	}
+}
+
+main {
+	min-height: 80vh;
+}
+
+h1 {
+	line-height: 40px;
+	font-size: 32px;
+	font-weight: 700;
+}
