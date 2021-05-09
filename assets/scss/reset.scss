@@ -4,6 +4,7 @@ header,
 footer,
 section,
 body,
+article,
 h1,
 h2,
 h3,
@@ -22,17 +23,21 @@ th,
 a,
 small,
 nav,
+pre,
+code,
 amp-script {
 	margin: 0;
 	padding: 0;
 	border: 0;
 	vertical-align: baseline;
-	font: inherit;
 	box-sizing: border-box;
 }
 
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0,0,0,0.8);
 }
 
 a {
@@ -48,10 +53,4 @@ a {
 
 main {
 	min-height: 80vh;
-}
-
-h1 {
-	line-height: 40px;
-	font-size: 32px;
-	font-weight: 700;
 }

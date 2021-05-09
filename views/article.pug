@@ -3,9 +3,31 @@ include mixin.pug
 
 block head
 	+metadata(title, 'test')
-	script(async custom-element='amp-imgur' src='https://cdn.ampproject.org/v0/amp-imgur-0.1.js')
+	script(async custom-element='amp-social-share' src='https://cdn.ampproject.org/v0/amp-social-share-0.1.js')
+	script(async custom-element='amp-facebook-comments' src='https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js')
+	if options.image
+		script(async custom-element='amp-imgur' src='https://cdn.ampproject.org/v0/amp-imgur-0.1.js')
+
+block css
+	include css/article.css
+	if options.code
+		include css/highlight.js/default.css
 
 block main
-	article 
+	article.container
 		h1 #{title}
-		div !{article}
+		.datetime 發佈日期：#{created_at}#{created_at === update_at ? '' : `；上次更新：${update_at}`}
+		div.content !{article}
+		ul.tags
+			each tag in config.tags
+				li
+					a(href=`/tag/${tag}`) #{tag}
+	.functions.container
+		.shares
+			amp-social-share(type='facebook' data-param-app_id='896344313740896')
+			amp-social-share(type='twitter')
+			amp-social-share(type='whatsapp')
+			amp-social-share(type='line')
+			amp-social-share(type='system')
+		hr
+		amp-facebook-comments(layout='fixed-height' height=500 data-href=url.href)

@@ -43,5 +43,7 @@ print('test')
 	<tbody>
 		<tr><td>tbody</td></tr>
 	</tbody>
-	<tfoot><tr>tfoot</tr><tfoot>
+	<tfoot>
+		<tr><td>tfoot</td></tr>
+	</tfoot>
 </table>

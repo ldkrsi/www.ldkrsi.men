@@ -29,12 +29,17 @@ gulp.task('html', () => {
     return htmlBuilder().pipe(gulp.dest('./public'));
 });
 
+gulp.task('copy:css', () => {
+    return gulp.src('./node_modules/highlight.js/styles/default.css')
+        .pipe(gulp.dest('./views/css/highlight.js/'));
+});
+
 gulp.task('clean', () => {
     return del(['public', 'tmp', 'views/css']);
 });
 
 gulp.task('build', gulp.series(
     'clean',
-    'sass',
+    gulp.parallel('sass', 'copy:css'),
 	'html'
 ));

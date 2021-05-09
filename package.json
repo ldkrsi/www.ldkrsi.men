@@ -5,9 +5,11 @@
   "license": "MIT",
   "scripts": {
     "pngquant": "pngquant",
+    "http-server": "http-server",
     "gulp": "gulp",
-    "build": "gulp build",
-    "dev": "yarn run build && http-server"
+    "build": "NODE_ENV=production gulp build",
+    "dev:build": "dotenv gulp build",
+    "dev": "yarn run dev:build && http-server"
   },
   "dependencies": {
     "@ampproject/toolbox-optimizer": "2.7.4",
@@ -28,6 +30,7 @@
     "highlight.js": "^10.7.2",
     "html-minifier": "^4.0.0",
     "markdown-it": "^12.0.6",
+    "moment": "^2.29.1",
     "postcss": "^8.2.10",
     "pug": "^3.0.2",
     "sass": "^1.32.11",
@@ -36,6 +39,7 @@
     "yaml": "^1.10.2"
   },
   "devDependencies": {
+    "dotenv-cli": "^4.0.0",
     "http-server": "^0.12.3",
     "pngquant-bin": "^6.0.0"
   }

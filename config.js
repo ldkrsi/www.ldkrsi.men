@@ -1,8 +1,6 @@
-const production = process.env.NODE_ENV === 'production';
-
 module.exports = {
-	production,
+	production: process.env.NODE_ENV === 'production',
 	request: {
-		url_root: production ? 'https://www.ldkrsi.men' : 'http://192.168.50.192:8080'
+		url_root: process.env.ORIGIN || 'https://www.ldkrsi.men'
 	},
 };
