@@ -1,0 +1,25 @@
+name: github page
+
+on:
+  push:
+    branches:
+      - "404"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "12.x"
+      - name: Install modules
+        run: yarn install
+      - name: Build page
+        run: yarn build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4
+        with:
+          branch: gh-pages
+          folder: public
