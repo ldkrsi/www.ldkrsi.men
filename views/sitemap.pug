@@ -1,0 +1,6 @@
+doctype xml
+urlset(xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')
+	each s in sitemaps
+		url
+			loc #{origin}#{s.loc}
+			lastmod #{s.lastmod}

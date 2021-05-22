@@ -3,19 +3,12 @@
 const gulp = require('gulp');
 const sass = require('gulp-sass');
 sass.compiler = require('sass');
-const babel = require('gulp-babel');
-const terser = require('gulp-terser');
 const postcss = require('gulp-postcss');
-const rev = require('gulp-rev');
 const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
 const del = require('del');
 const replace = require('gulp-replace');
-const through2 = require('through2');
-const path = require('path');
-const Vinyl = require('vinyl');
 const htmlBuilder = require('./build.js');
-
 
 gulp.task('sass', () => {
     return gulp.src('./assets/scss/*.scss')
@@ -39,12 +32,17 @@ gulp.task('copy:image', () => {
         .pipe(gulp.dest('./public/assets/images'))
 });
 
+gulp.task('copy:static', () => {
+    return gulp.src('./static/**/*')
+        .pipe(gulp.dest('./public/'))
+});
+
 gulp.task('clean', () => {
     return del(['public', 'tmp', 'views/css']);
 });
 
 gulp.task('build', gulp.series(
     'clean',
-    gulp.parallel('sass', 'copy:css', 'copy:image'),
-	'html'
+    gulp.parallel('sass', 'copy:css', 'copy:image', 'copy:static'),
+    'html'
 ));

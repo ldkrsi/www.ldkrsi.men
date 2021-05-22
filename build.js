@@ -6,7 +6,7 @@ const hljs = require('highlight.js');
 const YAML = require('yaml');
 const markdown = require('markdown-it')({ html: true });
 const moment = require('moment');
-const { pugRender } = require('./lib/pugRender');
+const { pugRender, xmlRender } = require('./lib/pugRender');
 const utility = require('./lib/utility');
 const compileTokens = require('./lib/compileTokens');
 
@@ -49,8 +49,21 @@ function main() {
 				});
 			});
 		})).then((rows) => {
-			const tasks = rows.map(d => pugRender('article.pug', d.path, d));
-			tasks.push(pugRender('index.pug', '/index.html', { rows: rows.sort((a, b) => b.timestamp - a.timestamp) }));
+			const sitemaps = [];
+			const tasks = rows.map(d => {
+				sitemaps.push({
+					loc: d.path,
+					lastmod: d.metadata.update_at
+				});
+				return pugRender('article.pug', d.path, d);
+			});
+
+			rows.sort((a, b) => b.timestamp - a.timestamp);
+			tasks.push(pugRender('index.pug', '/index.html', { rows }));
+			sitemaps.push({
+				loc: '',
+				lastmod: rows[0].metadata.update_at
+			});
 
 			const tags = {};
 			rows.forEach(row => {
@@ -69,13 +82,23 @@ function main() {
 					};
 				}).sort((a, b) => b.size - a.size)
 			}));
+			sitemaps.push({
+				loc: '/tags/',
+				lastmod: rows[0].metadata.update_at
+			});
 
 			tasks.push(...Object.entries(tags).map(([key, value]) => {
+				sitemaps.push({
+					loc: `/tags/${key}.html`,
+					lastmod: value[0].metadata.update_at
+				});
 				return pugRender('tag.pug', `/tags/${key}.html`, {
 					tag: key,
 					rows: value
 				});
 			}));
+
+			tasks.push(xmlRender('sitemap.pug', '/sitemap.xml', { sitemaps }));
 
 			return Promise.all(tasks);
 		});
