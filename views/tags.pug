@@ -1,0 +1,17 @@
+extends layout.pug
+include mixin.pug
+
+block head
+	+metadata('分類索引 - ldkrsi\'s Blog', tags.map(x => x.key).join(', '))
+
+block css
+	include css/tags.css
+	include css/tag-component.css
+
+block main
+	.container
+		h1 分類索引
+		ul.tags
+			each tag in tags
+				li
+					a(href=`/tags/${tag.key}.html`) #{tag.key} (#{tag.size})

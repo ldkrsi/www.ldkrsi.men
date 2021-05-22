@@ -1,0 +1,23 @@
+extends layout.pug
+include mixin.pug
+
+block head
+	+metadata(`分類：${tag} -ldkrsi\'s Blog`, rows.map(x => x.title).join(', '))
+
+block css
+	include css/index.css
+	include css/tag.css
+
+block main
+	.container
+		h2 分類：#{tag}
+		ul.list
+			each row in rows 
+				li
+					.datetime 發佈日期：#{row.metadata.created_at}#{row.metadata.created_at === row.metadata.update_at ? '' : `；上次更新：${row.metadata.update_at}`}
+					h1 
+						a(href=row.path) #{row.title}
+					.description #{row.metadata.description}
+					.read-more 
+						a(href=row.path) 繼續閱讀
+					hr

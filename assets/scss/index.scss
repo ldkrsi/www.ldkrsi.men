@@ -1,0 +1,33 @@
+ul.list {
+	li {
+		padding-bottom: 15px;
+	}
+	.datetime{
+		color: rgba(117, 117, 117, 1);
+		line-height: 20px;
+		font-size: 14px;
+	}
+	h1 {
+		line-height: 28px;
+		font-size: 22px;
+		margin-top: 12px;
+		margin-bottom: 15px;
+		font-weight: 700;
+		a {
+			color: rgba(41, 41, 41, 1);
+		}
+		@media (min-width: 768px) {
+			line-height: 44px;
+			font-size: 36px;
+		}
+	}
+	.description {
+		line-height: 1.555556;
+		font-size: 16px;
+		color: #888;
+		padding-bottom: 20px;
+	}
+	.read-more {
+		margin-bottom: 13px;
+	}
+}

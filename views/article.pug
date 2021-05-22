@@ -2,26 +2,49 @@ extends layout.pug
 include mixin.pug
 
 block head
-	+metadata(title, 'test')
+	+metadata(title, metadata.description)
 	script(async custom-element='amp-social-share' src='https://cdn.ampproject.org/v0/amp-social-share-0.1.js')
 	script(async custom-element='amp-facebook-comments' src='https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js')
 	if options.image
 		script(async custom-element='amp-imgur' src='https://cdn.ampproject.org/v0/amp-imgur-0.1.js')
+	-
+		var data = {
+			'@context': 'https://schema.org',
+			'@type': 'NewsArticle',
+			'mainEntityOfPage': {
+				'@type': 'WebPage',
+				'@id': url.href
+			},
+			'headline': title,
+			'datePublished': metadata.created_at,
+			'dateModified': metadata.update_at,
+			'author': {
+				'@type': 'Person',
+				'name': 'ldkrsi'
+			},
+			'publisher': {
+				'@type': 'Organization',
+				'name': 'ldkrsi\'s Blog'
+			}
+		}
+	script(type='application/ld+json').
+		!{JSON.stringify(data)}
 
 block css
 	include css/article.css
+	include css/tag-component.css
 	if options.code
 		include css/highlight.js/default.css
 
 block main
 	article.container
 		h1 #{title}
-		.datetime 發佈日期：#{created_at}#{created_at === update_at ? '' : `；上次更新：${update_at}`}
+		.datetime 發佈日期：#{metadata.created_at}#{metadata.created_at === metadata.update_at ? '' : `；上次更新：${metadata.update_at}`}
 		div.content !{article}
 		ul.tags
-			each tag in config.tags
+			each tag in metadata.tags
 				li
-					a(href=`/tag/${tag}`) #{tag}
+					a(href=`/tags/${tag}.html`) #{tag}
 	.functions.container
 		.shares
 			amp-social-share(type='facebook' data-param-app_id='896344313740896')

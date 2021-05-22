@@ -34,12 +34,17 @@ gulp.task('copy:css', () => {
         .pipe(gulp.dest('./views/css/highlight.js/'));
 });
 
+gulp.task('copy:image', () => {
+    return gulp.src('./assets/images/*')
+        .pipe(gulp.dest('./public/assets/images'))
+});
+
 gulp.task('clean', () => {
     return del(['public', 'tmp', 'views/css']);
 });
 
 gulp.task('build', gulp.series(
     'clean',
-    gulp.parallel('sass', 'copy:css'),
+    gulp.parallel('sass', 'copy:css', 'copy:image'),
 	'html'
 ));

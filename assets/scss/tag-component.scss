@@ -1,0 +1,19 @@
+ul.tags {
+	margin-bottom: 15px;
+	li {
+		margin-bottom: 8px;
+		margin-right: 8px;
+		display: inline-block;
+		a {
+			display: block;
+			padding: 5px 10px;
+			border-radius: 3px;
+			line-height: 22px;
+			background: rgba(242, 242, 242, 1);
+			text-decoration: none;
+			color: rgba(117, 117, 117, 1);
+			font-size: 13px;
+			cursor: pointer;
+		}
+	}
+}
