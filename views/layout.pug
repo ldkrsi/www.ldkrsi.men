@@ -10,6 +10,8 @@ html(lang='zh-hant')
 		link(as='script' href='https://cdn.ampproject.org/v0.js' rel='preload')
 		link(as='script' href='https://cdn.ampproject.org/v0/amp-ad-0.1.js' rel='preload')
 		script(async src='https://cdn.ampproject.org/v0.js')
+		if production
+			script(async custom-element='amp-analytics' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js')
 		block head
 		style(amp-boilerplate).
 			body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
@@ -21,6 +23,8 @@ html(lang='zh-hant')
 			include css/common.css
 			block css
 	body
+		if production
+			amp-analytics(config='https://www.googletagmanager.com/amp.json?id=GTM-5LVTNND&gtm.url=SOURCE_URL' data-credentials='include')
 		header
 			.container
 				.brand
