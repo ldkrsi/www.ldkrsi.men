@@ -3,7 +3,7 @@ tags:
   - c++
 ```
 
-# [C++] 列出所有組合 C m 取 n (Combination)
+# C++ 列出所有組合 C m 取 n (Combination)
 
 C m 取 n 
 
@@ -11,7 +11,7 @@ C(m,n)
 
 ## 迴圈寫法
 
-```c++
+```cpp
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -52,7 +52,7 @@ void comb(int n, int m) {
 
 ## 遞迴寫法
 
-```c++
+```cpp
 #include<iostream>
 #include<vector>
 using namespace std;
