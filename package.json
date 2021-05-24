@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "pngquant": "pngquant",
+    "svgo": "svgo",
     "http-server": "http-server",
     "gulp": "gulp",
     "build": "NODE_ENV=production gulp build",
@@ -33,6 +34,7 @@
   "devDependencies": {
     "dotenv-cli": "^4.0.0",
     "http-server": "^0.12.3",
-    "pngquant-bin": "^6.0.0"
+    "pngquant-bin": "^6.0.0",
+    "svgo": "^2.3.0"
   }
 }

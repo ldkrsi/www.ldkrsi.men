@@ -1,5 +1,5 @@
 article {
-	font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+	font-family: Helvetica, Arial, sans-serif;
 	color: rgba(41, 41, 41, 1);
 	word-break: break-word;
 }
@@ -152,12 +152,22 @@ h1 {
 
 		th {
 			font-weight: 600;
+			white-space: nowrap;
 		}
 
 		td,
 		th {
-			padding: 6px 13px;
+			padding: 6px 6px;
 			border: 1px solid #dfe2e5;
+			min-width: 55px;
+		}
+	}
+	.table-wrapper {
+		width: 100%;
+		overflow-x: auto;
+
+		table {
+			width: 680px;
 		}
 	}
 }

@@ -10,6 +10,8 @@ html(lang='zh-hant')
 		link(as='script' href='https://cdn.ampproject.org/v0.js' rel='preload')
 		link(as='script' href='https://cdn.ampproject.org/v0/amp-ad-0.1.js' rel='preload')
 		script(async src='https://cdn.ampproject.org/v0.js')
+		script(async custom-element='amp-form' src='https://cdn.ampproject.org/v0/amp-form-0.1.js')
+		script(async custom-element='amp-bind' src='https://cdn.ampproject.org/v0/amp-bind-0.1.js')
 		if production
 			script(async custom-element='amp-analytics' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js')
 		block head
@@ -37,7 +39,10 @@ html(lang='zh-hant')
 							a(href='/tags/') 分類
 						li
 							a(href='https://github.com/ldkrsi' rel='noreferrer noopener') GitHub
+		#page-top
 		main
 			block main
 		footer
 			.container.copyright ldkrsi's Blog © 2021
+		button#scrollToTopButton.scrollToTop(on='tap:page-top.scrollTo(duration=200)')
+			amp-img(src=`${url.origin}/assets/images/arrow-up.svg` layout='responsive' width=100 height=100)
