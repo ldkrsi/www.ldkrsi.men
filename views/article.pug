@@ -18,13 +18,18 @@ block head
 			'headline': title,
 			'datePublished': metadata.created_at,
 			'dateModified': metadata.update_at,
+			'image': [`${url.origin}/assets/images/favicon.png`],
 			'author': {
 				'@type': 'Person',
 				'name': 'ldkrsi'
 			},
 			'publisher': {
 				'@type': 'Organization',
-				'name': 'ldkrsi\'s Blog'
+				'name': 'ldkrsi\'s Blog',
+				'logo': {
+					'@type': 'ImageObject',
+					'url': `${url.origin}/assets/images/logo.png`
+				}
 			}
 		}
 	script(type='application/ld+json').
