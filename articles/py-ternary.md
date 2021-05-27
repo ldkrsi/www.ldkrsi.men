@@ -3,7 +3,7 @@ tags:
   - python
 ```
 
-# python的三元運算子(ternary conditional operator)
+# Python的三元運算子(ternary conditional operator)
 
 三元運算子(ternary conditional operator)
 
