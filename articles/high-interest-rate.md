@@ -90,7 +90,7 @@ tags:
 [臺灣銀行數位存款帳戶](https://cbank.bot.com.tw/Effect/OA_DigitalAcct)|0.88%|10萬|每半年|網銀免費跨轉33次。<br>ATM免費跨轉+跨提5次。<br>5,000元起息。<br>專案到期日：2021/12/31。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|0.6%|無上限|每月|免費跨轉6次，跨提6次。
 [京城銀行 Goyee](https://goyee.ktb.com.tw/CUST/)|0.6%|30萬|每月|免費跨轉6次，跨提6次。<br>10萬起息。<br>專案到期日：2021/7/31。
-[樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。
+[樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。<br>[新戶見面禮200元活動](https://www.facebook.com/RakutenMonkeys.official/posts/4060556060649013)
 [永豐銀行 大戶](https://dawho.tw)|0.45%|50萬|每月|免費跨轉+跨提20次。<br>[階梯利率的一部份。](https://dawho.tw/faq/memberloyalty/)<br>專案到期日：2021/6/30。
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|0.3%|無上限|每月|免費跨轉6次，跨提6次。<br>5,000元起息。<br>0.25%利息為月付，0.05%為半年付。<br>專案到期日：2021/12/31。
 [王道銀行 O-Bank](https://www.o-bank.com/retail/obankacct)|0.2%|無上限|每月|免費跨轉5次。<br>[王道銀行利率表](https://www.o-bank.com/retail/cm/ratemain/cm-deprate)。
