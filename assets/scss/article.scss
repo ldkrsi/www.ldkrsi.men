@@ -1,10 +1,17 @@
+@font-face {
+	font-family: "my-digital";
+	src: local(Helvetica), local(Arial);
+	unicode-range: U+30-39;
+}
+
 article {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: "my-digital", charter, Georgia, Cambria, "Times New Roman", Times, serif;
 	color: rgba(41, 41, 41, 1);
 	word-break: break-word;
 }
 
 h1 {
+	font-family: Helvetica, Arial, "Times New Roman", Times, sans-serif;
 	font-size: 32px;
 	font-weight: 700;
 	margin-top: 32px;
@@ -35,6 +42,7 @@ h1 {
 	h4,
 	h5,
 	h6 {
+		font-family: Helvetica, Arial, "Times New Roman", Times, sans-serif;
 		line-height: 1.25;
 		font-weight: 600;
 		margin-top: 24px;
@@ -43,7 +51,7 @@ h1 {
 
 	h2 {
 		font-size: 24px;
-		padding-bottom: .3em;
+		padding-bottom: 0.3em;
 	}
 
 	h3 {
@@ -65,9 +73,9 @@ h1 {
 	p {
 		margin-bottom: 1.1em;
 
-		&>code {
+		& > code {
 			color: #e83e8c;
-			padding: .2em .4em;
+			padding: 0.2em 0.4em;
 			margin: 0;
 			font-size: 85%;
 			background-color: #f0f0f0;
@@ -79,7 +87,7 @@ h1 {
 	blockquote {
 		padding: 0 1em;
 		color: #6a737d;
-		border-left: .25em solid #dfe2e5;
+		border-left: 0.25em solid #dfe2e5;
 		margin: 0;
 		margin-bottom: 16px;
 	}
@@ -116,12 +124,12 @@ h1 {
 	}
 
 	li {
-		margin-bottom: .25em;
+		margin-bottom: 0.25em;
 	}
 
 	pre {
 		background-color: #eee;
-		padding: .5em 5px;
+		padding: 0.5em 5px;
 		margin-bottom: 16px;
 		border-radius: 3px;
 		overflow-x: auto;
@@ -132,7 +140,7 @@ h1 {
 	}
 
 	amp-imgur {
-		border: 1px solid rgba(0, 0, 0, .1);
+		border: 1px solid rgba(0, 0, 0, 0.1);
 		margin-left: -10px;
 		margin-right: -10px;
 
