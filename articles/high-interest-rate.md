@@ -3,7 +3,7 @@ tags:
   - 投資理財
 ```
 
-# 各家銀行高利活存一覽表
+# 2021年各家銀行高利活存一覽表
 
 一般活存利率通常小於0.08%，也就是1萬塊放1年只生出8元，通常大於這個利率，銀行就會以高利活存的名義拿來宣傳。
 
@@ -60,7 +60,7 @@ tags:
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.2%|12萬|每半年|免費跨轉6次，跨提6次。<br>5,000元起息。<br>專案到期日：2021/6/30。
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|免費跨轉10次，跨提5次。<br>5,000元起息。<br>專案到期日：2021/6/30。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/mashup.jsp?funcId=deaf529815)|1.2%|10萬|每半年|免費跨轉10次，跨提10次。<br>1萬元起息。<br>[另有活動](JColResizer1)加碼利率至1.5%，額度至15萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.bankchb.com/frontend/bonusDetail.jsp?id=1790)
-[永豐銀行 大戶](https://dawho.tw)|1.1%|50萬|每月|免費跨轉+跨提20次。<br>10萬起息，可用[其他條件](https://dawho.tw/faq/memberloyalty/)替代。<br>專案到期日：2021/6/30。<br>[透過LINE Pay Money開戶送150元](https://bank.sinopac.com/sinopacBT/webevents/ec/honey/index.html)。
+[永豐銀行 大戶](https://dawho.tw)|1.1%|50萬|每月|免費跨轉+跨提20次。<br>10萬起息，可用[其他條件](https://dawho.tw/faq/memberloyalty/)替代。<br>專案到期日：2021/6/30。
 
 </div>
 
