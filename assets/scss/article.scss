@@ -1,17 +1,10 @@
-@font-face {
-	font-family: "my-digital";
-	src: local(Helvetica), local(Arial);
-	unicode-range: U+30-39;
-}
-
 article {
-	font-family: "my-digital", charter, Georgia, Cambria, "Times New Roman", Times, serif;
+	font-family: Helvetica, Arial, "Times New Roman", Times, sans-serif;
 	color: rgba(41, 41, 41, 1);
 	word-break: break-word;
 }
 
 h1 {
-	font-family: Helvetica, Arial, "Times New Roman", Times, sans-serif;
 	font-size: 32px;
 	font-weight: 700;
 	margin-top: 32px;
@@ -42,7 +35,6 @@ h1 {
 	h4,
 	h5,
 	h6 {
-		font-family: Helvetica, Arial, "Times New Roman", Times, sans-serif;
 		line-height: 1.25;
 		font-weight: 600;
 		margin-top: 24px;
