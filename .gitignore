@@ -2,3 +2,4 @@ node_modules/
 public/
 views/css/
 .env
+draft/*.md
