@@ -35,8 +35,13 @@ function main() {
 					const title = tokens.splice(tokens.findIndex(t => t.type === 'heading_open' && t.tag === 'h1'), 3)[1].content;
 					const options = compileTokens(tokens);
 
+					let ads = true;
+					if (config.tags.includes('投資理財') || config.tags.includes('區塊鏈')) {
+						ads = false;
+					}
+
 					return {
-						title, options,
+						title, options, ads,
 						path: `/articles/${file.replace(/\.md$/, '')}.html`,
 						article: markdown.renderer.render(tokens, renderOptions),
 						timestamp: updateAt.valueOf(),
@@ -59,7 +64,7 @@ function main() {
 			});
 
 			rows.sort((a, b) => b.timestamp - a.timestamp);
-			tasks.push(pugRender('index.pug', '/index.html', { rows }));
+			tasks.push(pugRender('index.pug', '/index.html', { rows, ads: true }));
 			sitemaps.push({
 				loc: '',
 				lastmod: rows[0].metadata.update_at
@@ -76,6 +81,7 @@ function main() {
 			});
 
 			tasks.push(pugRender('tags.pug', '/tags/index.html', {
+				ads: true,
 				tags: Object.entries(tags).map(([key, value]) => {
 					return {
 						key, size: value.length
@@ -93,6 +99,7 @@ function main() {
 					lastmod: value[0].metadata.update_at
 				});
 				return pugRender('tag.pug', `/tags/${key}.html`, {
+					ads: true,
 					tag: key,
 					rows: value
 				});

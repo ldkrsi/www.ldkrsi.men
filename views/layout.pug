@@ -7,9 +7,9 @@ html(lang='zh-hant')
 		link(rel='canonical' href=url.href)
 		meta(property='og:url' content=url.href)
 		link(rel='icon' type='image/png' href=`${url.origin}/assets/images/favicon.png`)
-		link(as='script' href='https://cdn.ampproject.org/v0.js' rel='preload')
-		link(as='script' href='https://cdn.ampproject.org/v0/amp-ad-0.1.js' rel='preload')
 		script(async src='https://cdn.ampproject.org/v0.js')
+		if ads
+			script(async custom-element='amp-auto-ads' src='https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js')
 		script(async custom-element='amp-form' src='https://cdn.ampproject.org/v0/amp-form-0.1.js')
 		script(async custom-element='amp-bind' src='https://cdn.ampproject.org/v0/amp-bind-0.1.js')
 		if production
@@ -25,6 +25,8 @@ html(lang='zh-hant')
 			include css/common.css
 			block css
 	body
+		if ads
+			amp-auto-ads(type='adsense' data-ad-client='ca-pub-2406372780002585')
 		if production
 			amp-analytics(config='https://www.googletagmanager.com/amp.json?id=GTM-5LVTNND&gtm.url=SOURCE_URL' data-credentials='include')
 		header
