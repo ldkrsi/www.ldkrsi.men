@@ -36,7 +36,7 @@ The People’s Network 的基礎是 Helium 區塊鏈技術，礦工藉由傳輸�
 
 網路的使用人在市場上收集 HNT 幣，然後轉換成儲值金到自己的數位合約中，每次的手續和資料傳輸都從該數位合約的儲值金中扣款。關鍵就在 HNT 幣轉化的儲值金的時候，綁定了美金，不因 HNT 幣對美金的匯率影響了使用人的成本，以美金計價的每項手續和每 Byte 的傳輸價格都是固定的。
 
-詳細的 HNT 幣生態系我會再另一篇專文中完整說明。
+詳細的 HNT 幣生態系就請看[這篇專文](/articles/hnt.html)。
 
 ## The People’s Network 的現況和未來
 
@@ -63,7 +63,7 @@ The People’s Network 的基礎是 Helium 區塊鏈技術，礦工藉由傳輸�
 
 他們現階段可能的收入除了自身持有的 HNT 幣的增值，再來就是向礦機製造商收取認證費。只要是有 LoRa Gateway 能力的機器都可以加入 The People’s Network ，但只有經過 Helium 認真的礦機才可以挖出 HNT 幣，他們掌握了挖礦程式就等於掌握了讓哪間開發商加入的能力。不過現在還在網路發展的初期，礦機供應量也嚴重不足，他們多年後才會有可能有收費計畫。
 
-[挖礦程式本身是開源的](https://github.com/helium/miner)，如果 Helium 公司對於礦機製造商有過多的要求，就像比特幣和以太坊的側鏈幣一樣，分岔出來用現有礦工另組網路並不是難事，向礦機商收費並不是個穩定的收入。
+[挖礦程式本身是開源的](https://github.com/helium/miner)，如果 Helium 公司對於礦機製造商有過多的要求，就像比特幣和以太坊的側鏈幣一樣，分叉出來用現有礦工另組網路並不是難事，向礦機商收費並不是個穩定的收入。
 
 從[白皮書](http://whitepaper.helium.com)來看，他們在裡面完全沒指定 LoRa 這項技術，只展示了物連網基地台建設的 P2P 模式。然後最近又和 [FreedomFi](https://freedomfi.com/) 這間新創一起推出了 [P2P 5G 網路計畫](https://blog.helium.com/episode-two-the-path-to-5g-3f704a58661)(之後會專文介紹這個好玩的計畫)。
 

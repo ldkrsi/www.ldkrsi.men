@@ -6,6 +6,19 @@
 	width: 100%;
 	max-width: 1080px;
 	margin: 0 auto;
+
+	.ad-container {
+		margin-left: -10px;
+		margin-right: -10px;
+		@media (min-width: 768px) {
+			margin-left: 0;
+			margin-right: 0;
+		}
+	}
+}
+
+.ad-container {
+	margin-bottom: 30px;
 }
 
 header {

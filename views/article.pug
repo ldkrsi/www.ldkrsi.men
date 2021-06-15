@@ -45,6 +45,10 @@ block main
 	article.container
 		h1 #{title}
 		.datetime 發佈日期：#{metadata.created_at}#{metadata.created_at === metadata.update_at ? '' : `；上次更新：${metadata.update_at}`}
+		if ads
+			.ad-container
+				amp-ad(layout='fixed-height' height='320' type='adsense' data-ad-client='ca-pub-2406372780002585' data-ad-slot='6149145538' data-auto-format='rspv' data-full-width='')
+					div(overflow='')
 		div.content !{article}
 		ul.tags
 			each tag in metadata.tags
@@ -58,4 +62,8 @@ block main
 			amp-social-share(type='line')
 			amp-social-share(type='system')
 		hr
+		if ads
+			h2 猜你有興趣
+			amp-ad(layout='fixed-height' height='320' type='adsense' data-ad-client='ca-pub-2406372780002585' data-ad-slot='5607247726' data-auto-format='mcrspv' data-full-width='')
+				div(overflow='')
 		amp-facebook-comments(layout='fixed-height' height=500 data-href=url.href)
