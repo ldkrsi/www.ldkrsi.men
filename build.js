@@ -36,7 +36,7 @@ function main() {
 					const options = compileTokens(tokens);
 
 					let ads = true;
-					if (config.tags.includes('投資理財') || config.tags.includes('區塊鏈')) {
+					if (config.tags.includes('投資理財')) {
 						ads = false;
 					}
 

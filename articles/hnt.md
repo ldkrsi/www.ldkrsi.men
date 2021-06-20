@@ -51,6 +51,8 @@ Helium 區塊鏈是 [The People’s Network](/articles/helium-block-chain.html) 
 
 在2020年時曾有一段時間開放自建礦機可挖出 HNT 幣，但隨著製造商的產能穩定後這個優惠就取消了，看起來未來也不可能重新開放。當時民間自製的礦機或用同樣方式製造的新礦機現在就只能當成訊號延伸器使用。
 
+多數的礦機都採用有線的方式來連結網際網路，但為了求 LoRa 訊號的廣度，很有可能需要把基地台架在難以拉網路線的住家角落，所以有些廠商就生產了使用 WiFi 或電信網路來取代有線網路的機型，不過耗電會比走有線網路多一些。選購時思考一下自身條件再看各機型的 IO 規格來決定要買哪個機型。
+
 ### 礦機的硬體
 
 礦機的構造都非常簡單，一個 LoRa 訊號收發器加上 Raspberry Pi 就能跑了，現在要作[訊號延伸器](https://docs.helium.com/use-the-network/build-a-packet-forwarder/)也是照這個模式製做。
@@ -62,6 +64,8 @@ LoRa 訊號收發器的核心處理器都是 Semtech(SMTC, NASDAQ) 這間公司�
 Semtech 的晶片會由模組廠加上各項必要的電子元件製成 LoRa 訊號收發模組，系統廠再把模組整合 Raspberry Pi 這類微型電腦來製造礦機。目前各礦機內最常見的模組是中國的瑞科慧聯(RAKwireless)製造的，他同時也是出貨量最大的礦機生產商。
 
 隨著 Helium 區塊鏈的成長，愈來愈多的廠商想加入生產礦機的行列，身為網通大國的台灣也有一間公司跑去申請：**普羅通信 BROWAN**，是上市公司正文科技(4906)的子公司。普羅通信本身就是有 LoRa 產品經驗的公司，加上礦機構造簡單，順利生產應該不成問題，這邊是他們的[申請表](https://github.com/browanofficial/HIP/blob/patch-1/0019-third-party-manufacturers/Browan-Cellular-Gateway.md)和[申請進度](https://github.com/helium/HIP/pull/139)。
+
+LoRa 系列晶片並不是個毛利很高的產品，在2020年和2021年的晶片荒裡，他並不是會被優先生產的晶片，現在的缺機漲價情型除了礦工大量加入外，也有源頭晶片不足的狀況在。
 
 ### 如果你住美國
 
