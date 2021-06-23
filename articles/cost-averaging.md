@@ -1,4 +1,5 @@
 ```yaml
+ads: false
 tags:
   - 投資理財
 ```

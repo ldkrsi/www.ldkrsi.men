@@ -36,7 +36,7 @@ function main() {
 					const options = compileTokens(tokens);
 
 					let ads = true;
-					if (config.tags.includes('投資理財')) {
+					if (config.ads !== undefined && config.ads === false) {
 						ads = false;
 					}
 
