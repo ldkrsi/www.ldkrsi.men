@@ -56,7 +56,7 @@ tags:
 [台企銀數位存款帳戶](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每半年|免費跨轉10次，跨提10次。<br>1萬元起息。<br>專案到期日：2021/12/31。
 [第一銀行 iLEO](https://ibank.firstbank.com.tw/NetBank/DigAMA/LandingPage/index.html)|1.2%|12萬|每月|免費跨轉10次，跨提5次。<br>專案到期日：2021/12/31。<br>推薦開戶[活動](https://webar.firstbank.com.tw/c000001681/%E9%A0%81%E9%9D%A2?ch=ILEO&bu=056&cp=C000001681&bsd=firstbk.tw&path=emp_id&slideIndex=0)領100元，[專屬連結](https://firstbk.tw/R47NK/LJwbBt)。
 [兆豐銀行 MegaLite](https://wwwfile.megabank.com.tw/event/megalite/)|1.2%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2021/12/31。
-[高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|免費跨轉5次，跨提5次。<br>5,000元起息。<br>在高雄銀行有學貸授信餘額的客戶加碼至1.3%。<br>專案到期日：2021/6/30。
+[高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|免費跨轉5次，跨提5次。<br>5,000元起息。<br>在高雄銀行有學貸授信餘額的客戶加碼至1.3%。<br>專案到期日：2021/12/31。
 [上海銀行 Cloud Bank](https://www.scsb.com.tw/content/cloudbank/index.html)|1.2%|30萬|每半年|免費跨轉+跨提10次。<br>1萬元起息。<br>完成指定條件額度加碼至50萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.scsb.com.tw/content/cloudbank/new_1.html)
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.2%|12萬|每半年|免費跨轉6次，跨提6次。<br>5,000元起息。<br>專案到期日：2021/6/30。
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|免費跨轉10次，跨提5次。<br>5,000元起息。<br>專案到期日：2021/6/30。
