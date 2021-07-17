@@ -3,7 +3,7 @@ tags:
   - 投資理財
 ```
 
-# LINE Bank 夢想帳戶【夢想加速 雙倍利HIGH】活動報酬率試算
+# (活動已結束) 雙倍利HIGH活動報酬率試算
 
 [LINE Bank 夢想帳戶](https://www.linebank.com.tw/products/detail/01010050001)就是利率較高的零存整付的定期存款，利用在後期加碼利率幫助小資族和理財新手養成儲蓄的習慣。
 

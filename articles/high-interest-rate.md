@@ -62,6 +62,7 @@ tags:
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|免費跨轉10次，跨提5次。<br>5,000元起息。<br>專案到期日：2021/12/31。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每半年|免費跨轉10次，跨提10次。<br>1萬元起息。<br>[另有活動](https://www.bankchb.com/frontend/Digitalaccount/introduction-twd.html)加碼利率至1.5%，額度至15萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.bankchb.com/frontend/Digitalaccount/news-detail-09.html)
 [永豐銀行 大戶](https://dawho.tw)|1.1%|50萬|每月|免費跨轉+跨提20次。<br>10萬起息，可用[其他條件](https://dawho.tw/faq/memberloyalty/)替代。<br>專案到期日：2021/12/31。
+[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|1%|無上限|每半年|免費跨轉60次。<br>專案到期日：2021/9/30。
 
 </div>
 
@@ -93,7 +94,6 @@ tags:
 [樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。<br>[新戶見面禮200元活動](https://www.rakuten-bank.com.tw/portal/campaign/2021-safe)
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|0.3%|無上限|每月|免費跨轉6次，跨提6次。<br>5,000元起息。<br>0.25%利息為月付，0.05%為半年付。<br>專案到期日：2021/12/31。
 [王道銀行 O-Bank](https://www.o-bank.com/retail/obankacct)|0.2%|無上限|每月|免費跨轉5次。<br>[王道銀行利率表](https://www.o-bank.com/retail/cm/ratemain/cm-deprate)。
-[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.2%|無上限|每半年|免費跨轉60次。
 
 </div>
 
