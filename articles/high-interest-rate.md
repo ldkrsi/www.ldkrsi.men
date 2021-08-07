@@ -40,7 +40,7 @@ tags:
 
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
-[遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|免費跨轉6次，跨提6次。<br>此為[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa_2021Q1/index.html)利率，開戶後6個月以2.6%計息，可利用邀請好友來延長計息期間。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日2021/07/31。
+[遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|免費跨轉6次，跨提6次。<br>此為[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa_2021Q1/index.html)利率，開戶後6個月以2.6%計息，可利用邀請好友來延長計息期間。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日2021/12/31。
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>每月利息分兩筆撥付，第一筆為一般活儲率利，第二筆是高利活儲利率，兩個合計2%。<br>專案到期日：	2022/01/20。<br>[透過LINE Pay Money開戶送100元](https://web.ubot.com.tw/UB/new_bank_a/page10.aspx)。
 
 </div>
