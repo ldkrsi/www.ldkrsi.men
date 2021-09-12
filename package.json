@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "dotenv-cli": "^4.0.0",
-    "http-server": "^0.12.3",
+    "http-server": "^13.0.0",
     "pngquant-bin": "^6.0.0",
     "svgo": "^2.3.0"
   }

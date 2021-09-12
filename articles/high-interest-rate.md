@@ -76,7 +76,7 @@ tags:
 ---|---:|:---:|:---:|---
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|1.85%|20萬|每月|[每月完成電支和轉帳任務](https://www.skbank.com.tw/8b5c53b616.html)<br>免費跨轉6次，跨提6次。<br>5,000元起息。<br>1.8%利息為月付，0.05%為半年付。<br>專案到期日：2021/12/31。
 [華南銀行 SnY](https://event.hncb.com.tw/SnY/index.html)|上限 1.29%|10萬|每月|[每月完成支付任務後依餘額/基金扣款來計算均利率](https://event.hncb.com.tw/SnY/hncbsny2021/pdf/110_SnY_activity_plan_final_v4.pdf)<br>免費跨轉5次。<br>專案到期日：2021/12/31。
-[台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|1.2%|30萬|每月|[新戶每月完成轉帳任務](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=17907)<br>舊戶還要再完成美金任務，且限15萬名。<br>免費跨轉5次，跨提5次。<br>專案到期日：2021/12/31。<br>推薦開戶[活動](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=18008)領100元，[專屬連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
+[台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|1.2%|30萬|每月|[新戶每月完成轉帳任務](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=17907)<br>舊戶還要再完成美金任務，且限15萬名。<br>免費跨轉5次，跨提5次。<br>專案到期日：2021/12/31。<br>推薦開戶[活動](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=20129)領100元，[專屬連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
 [陽信銀行 iSunny](https://www.sunnybank.com.tw/activityevent/2021-iSunny/web.html)|1%|10萬|每月|完成美金存款任務。<br>專案到期日：2021/11/30。
 
 </div>
