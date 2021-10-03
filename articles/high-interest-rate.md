@@ -10,26 +10,6 @@ tags:
 
 近年來因政府開放數位金融的各項法規，而有有了數位帳戶及其衍伸的理財服務，讓銀行有更多利潤提供較高的利率給客戶。
 
-## 什麼是數位帳戶
-
-通過網頁、APP申請，不用臨櫃開戶的銀行帳戶都是數位帳戶，沒有存摺、不用留印章、轉帳規定和臨櫃開戶的戶頭稍有不同。
-
-## 為什麼銀行願意提供高於行情的利息
-
-### 數位帳戶的管理成本較臨櫃帳戶低
-
-不用存摺、不用留印鑑、開戶時也不用專人服務，會辦數位帳戶的人都是對網路有一定熟悉程度的人，很少會跑臨櫃。
-
-### 小型銀行從大銀行搶客戶
-
-一般來說除了薪轉戶和幾間分行多大銀外，很少人會四處開戶，這習慣很不利規模小分行不多的銀行。
-
-但可以網路開戶後，小銀行就能通過數位帳戶的高利息讓大家轉移資金過去，之後再透過以數位帳戶為中心的整組服務，轉移客戶原本在大銀行的投資部位。
-
-### 官股銀行的績效
-
-政府內部有些數位金融的政策因各種理由要拉高數位帳戶的開戶量，這時就會請官股銀行想各種招式來達標。
-
 ## 高利活存利率表
 
 起息沒要求 5,000 元以上就不特別寫出來了。
@@ -57,12 +37,11 @@ tags:
 [第一銀行 iLEO](https://ibank.firstbank.com.tw/NetBank/DigAMA/LandingPage/index.html)|1.2%|12萬|每月|免費跨轉10次，跨提5次。<br>專案到期日：2021/12/31。<br>推薦開戶[活動](https://webar.firstbank.com.tw/c000001681/%E9%A0%81%E9%9D%A2?ch=ILEO&bu=056&cp=C000001681&bsd=firstbk.tw&path=emp_id&slideIndex=0)領100元，[專屬連結](https://firstbk.tw/R47NK/LJwbBt)。
 [兆豐銀行 MegaLite](https://wwwfile.megabank.com.tw/event/megalite/)|1.2%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2021/12/31。
 [高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|免費跨轉5次，跨提5次。<br>5,000元起息。<br>在高雄銀行有學貸授信餘額的客戶加碼至1.3%。<br>專案到期日：2021/12/31。
-[上海銀行 Cloud Bank](https://www.scsb.com.tw/content/cloudbank/index.html)|1.2%|30萬|每半年|免費跨轉+跨提10次。<br>1萬元起息。<br>完成指定條件額度加碼至50萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.scsb.com.tw/content/cloudbank/new_1.html)
+[上海銀行 Cloud Bank](https://www.scsb.com.tw/content/cloudbank/index.html)|1.2%|30萬|每半年|免費跨轉+跨提10次。<br>1萬元起息。<br>完成指定條件額度加碼至50萬。<br>專案到期日：2021/12/31。
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.2%|12萬|每半年|免費跨轉6次，跨提6次。<br>5,000元起息。<br>專案到期日：2021/12/31。
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|免費跨轉10次，跨提5次。<br>5,000元起息。<br>專案到期日：2021/12/31。
-[彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每半年|免費跨轉10次，跨提10次。<br>1萬元起息。<br>[另有活動](https://www.bankchb.com/frontend/Digitalaccount/introduction-twd.html)加碼利率至1.5%，額度至15萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.bankchb.com/frontend/Digitalaccount/news-detail-09.html)
+[彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每半年|免費跨轉10次，跨提10次。<br>1萬元起息。<br>[另有活動](https://www.bankchb.com/frontend/Digitalaccount/introduction-twd.html)加碼利率至1.5%，額度至15萬。<br>專案到期日：2021/12/31。<br>開戶[抽獎活動](https://www.bankchb.com/frontend/Digitalaccount/news-detail-14.html)
 [永豐銀行 大戶](https://dawho.tw)|1.1%|50萬|每月|免費跨轉+跨提20次。<br>10萬起息，可用[其他條件](https://dawho.tw/faq/memberloyalty/)替代。<br>專案到期日：2021/12/31。
-[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|1%|無上限|每半年|免費跨轉60次。<br>專案到期日：2021/9/30。
 
 </div>
 
@@ -91,11 +70,32 @@ tags:
 ---|---:|:---:|:---:|---
 [臺灣銀行數位存款帳戶](https://cbank.bot.com.tw/Effect/OA_DigitalAcct)|0.88%|10萬|每半年|網銀免費跨轉33次。<br>ATM免費跨轉+跨提5次。<br>5,000元起息。<br>專案到期日：2021/12/31。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|0.6%|無上限|每月|免費跨轉6次，跨提6次。
+[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.6%|無上限|每半年|免費跨轉60次。<br>專案到期日：2021/12/31。
 [樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。<br>[新戶見面禮200元活動](https://www.rakuten-bank.com.tw/portal/campaign/2021-safe)
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|0.3%|無上限|每月|免費跨轉6次，跨提6次。<br>5,000元起息。<br>0.25%利息為月付，0.05%為半年付。<br>專案到期日：2021/12/31。
 [王道銀行 O-Bank](https://www.o-bank.com/retail/obankacct)|0.2%|無上限|每月|免費跨轉5次。<br>[王道銀行利率表](https://www.o-bank.com/retail/cm/ratemain/cm-deprate)。
 
 </div>
+
+## 什麼是數位帳戶
+
+通過網頁、APP申請，不用臨櫃開戶的銀行帳戶都是數位帳戶，沒有存摺、不用留印章、轉帳規定和臨櫃開戶的戶頭稍有不同。
+
+## 為什麼銀行願意提供高於行情的利息
+
+### 數位帳戶的管理成本較臨櫃帳戶低
+
+不用存摺、不用留印鑑、開戶時也不用專人服務，會辦數位帳戶的人都是對網路有一定熟悉程度的人，很少會跑臨櫃。
+
+### 小型銀行從大銀行搶客戶
+
+一般來說除了薪轉戶和幾間分行多大銀外，很少人會四處開戶，這習慣很不利規模小分行不多的銀行。
+
+但可以網路開戶後，小銀行就能通過數位帳戶的高利息讓大家轉移資金過去，之後再透過以數位帳戶為中心的整組服務，轉移客戶原本在大銀行的投資部位。
+
+### 官股銀行的績效
+
+政府內部有些數位金融的政策因各種理由要拉高數位帳戶的開戶量，這時就會請官股銀行想各種招式來達標。
 
 ## 申辦高利活存注意事項
 
