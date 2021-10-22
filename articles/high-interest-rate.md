@@ -20,8 +20,9 @@ tags:
 
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
-[遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|免費跨轉6次，跨提6次。<br>此為[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa_2021Q1/index.html)利率，開戶後6個月以2.6%計息，可利用邀請好友來延長計息期間。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日2021/12/31。
-[聯邦銀行 New New Bank](https://newnewbank.com.tw/)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>每月利息分兩筆撥付，第一筆為一般活儲率利，第二筆是高利活儲利率，兩個合計2%。<br>專案到期日：	2022/01/20。<br>[透過LINE Pay Money開戶送100元](https://web.ubot.com.tw/UB/new_bank_a/page10.aspx)。
+[遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|免費跨轉6次，跨提6次。<br>此為[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa_2021Q1/index.html)利率，開戶後6個月以2.6%計息，可利用邀請好友來延長計息期間。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日：2021/12/31。
+[LINE Bank 口代帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2.2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/03/31。
+[聯邦銀行 New New Bank](https://newnewbank.com.tw/)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>每月利息分兩筆撥付，第一筆為一般活儲率利，第二筆是高利活儲利率，兩個合計2%。<br>專案到期日：2022/01/20。<br>[透過LINE Pay Money開戶送100元](https://web.ubot.com.tw/UB/new_bank_a/page10.aspx)。
 
 </div>
 
@@ -70,7 +71,7 @@ tags:
 ---|---:|:---:|:---:|---
 [臺灣銀行數位存款帳戶](https://cbank.bot.com.tw/Effect/OA_DigitalAcct)|0.88%|10萬|每半年|網銀免費跨轉33次。<br>ATM免費跨轉+跨提5次。<br>5,000元起息。<br>專案到期日：2021/12/31。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|0.6%|無上限|每月|免費跨轉6次，跨提6次。
-[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.6%|無上限|每半年|免費跨轉60次。<br>專案到期日：2021/12/31。
+[LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.6%|無上限|每半年|免費跨轉88次，跨提5次。<br>專案到期日：2021/12/31。
 [樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。<br>[新戶見面禮200元活動](https://www.rakuten-bank.com.tw/portal/campaign/2021-safe)
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|0.3%|無上限|每月|免費跨轉6次，跨提6次。<br>5,000元起息。<br>0.25%利息為月付，0.05%為半年付。<br>專案到期日：2021/12/31。
 [王道銀行 O-Bank](https://www.o-bank.com/retail/obankacct)|0.2%|無上限|每月|免費跨轉5次。<br>[王道銀行利率表](https://www.o-bank.com/retail/cm/ratemain/cm-deprate)。
