@@ -13,7 +13,7 @@ tags:
 ---|:---:|---
 [LINE購物](https://buy.line.me)|LINE POINTS|常態紅包活動加碼回饋
 [ShopBack](https://www.shopback.com.tw)|現金<br>[200元提領](https://support.shopback.com.tw/hc/zh-tw/articles/115010371768)|有小數點，未滿1元仍可累計<br>發票回饋功能，實體店仍可賺回饋<br>[通過此連結註冊送100元](https://app.shopback.com/pHHXGhBjKlb)
-[BigGo](https://biggo.com.tw/store/overview.php)|現金<br>[100元提領](https://help.biggo.com.tw/zh-TW/support/solutions/articles/44001019532-)|
+[BigGo](https://biggo.com.tw/store/overview.php)|現金<br>[100元提領](https://help.biggo.com.tw/zh-TW/support/solutions/articles/44001019532-)|比價功能最好用
 [購有錢](https://www.goyomoney.com.tw)|現金<br>[150元提領](https://www.goyomoney.com.tw/faq#:~:text=%E9%A0%98%E5%87%BA%E7%8F%BE%E9%87%91%E5%9B%9E%E9%A5%8B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)|
 [Hami購物](https://hamipoint.cht.com.tw/buy)|Hami Point|可直接抵中華電信電話費、網路費
 [亞洲萬里通](https://shop.asiamiles.com/zh/)|亞萬哩程|
@@ -191,3 +191,5 @@ LINE POINTS是非常主流的點數生態系，可以很簡單的消耗掉。Ham
 亞萬就如上方所說的，消耗通路少，加上轉成其他點數生態系需先累積5000哩程(約500元)，除非本身有在其他通路玩亞萬哩程，不然不推薦使用。
 
 返現通路只擇一則是因為上面所講的，你光滿足一間的提領門檻就很困難了，消費要達到數萬才行。一個月網購不滿萬的小資族，即使不使用返點的平台，也是建議保持一家返現平台就好，各家返現平台都有規定靜止戶回饋金回收的條款，因忘記而損失回饋金的機會是有的。
+
+另外有網友[實測](https://www.dcard.tw/f/savemoney/p/233024829)多個導購平台可以同時拿到回饋，一些小型網購網站或許存在這種可能性，有機會可以嘗試看看。
