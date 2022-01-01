@@ -17,9 +17,9 @@ tags:
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
 [遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa/index.html)利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>免費跨轉6次，跨提6次。<br>活動截止日：2022/6/30。
-[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2.2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/03/31。
+[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2.2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/03/31。<br>通過[連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)開戶抽3萬。[活動內容](https://www.linebank.com.tw/notice/events/1187364)。 
 [聯邦銀行 New New Bank](https://newnewbank.com.tw)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2022/07/20。
-[台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|2%|30萬|每月|[新戶活動2%利息](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=21667)(舊戶1%)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2022/6/30。<br>推薦開戶[活動](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=22069)領100元，[專屬連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
+[台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|2%|30萬|每月|[新戶活動2%利息](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=21667)(舊戶1%)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2022/6/30。<br>推薦開戶[活動](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=22069)領100元，[連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
 [富邦銀行 數位帳戶](https://ebank.taipeifubon.com.tw/EXT/common/CAA/Index.faces)|2%|5萬|每半年|[每月需以行動支付消費1筆](https://www.fubon.com/banking/event/deposit/20211213/index.html)。<br>專案到期日：2022/12/31。
 
 </div>
