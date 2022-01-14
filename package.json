@@ -13,7 +13,7 @@
     "dev": "yarn run dev:build && http-server"
   },
   "dependencies": {
-    "@ampproject/toolbox-optimizer": "^2.8.0",
+    "@ampproject/toolbox-optimizer": "2.8.4",
     "autoprefixer": "^10.2.5",
     "cssnano": "^5.0.1",
     "del": "^6.0.0",
