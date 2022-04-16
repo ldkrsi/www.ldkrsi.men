@@ -56,7 +56,7 @@ tags:
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|1.9%|20萬|每月|[每月完成電支和轉帳任務](https://www.skbank.com.tw/8b5c53b616.html)<br>免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/6/30。
 [華南銀行 SnY](https://event.hncb.com.tw/SnY/index.html)|1.2%|10萬|每月|新戶直接送1.2%，舊戶需完成指定任務。<br>另有其他任務加碼至1.5%。<br>詳情看[這份文件](https://www.hncb.com.tw/wps/wcm/connect/226f0e0d-2aa3-426a-b218-07f3fcb36400/111%E5%B9%B4Q2_SnY%E5%B8%B3%E6%88%B6%E5%84%AA%E6%83%A0%E6%B4%BB%E5%8B%95%E6%96%B9%E6%A1%881110126_v5.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-226f0e0d-2aa3-426a-b218-07f3fcb36400-n1RT6jC)。<br>免費跨轉10次，跨提10次。<br>專案到期日：2022/12/31。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|1.06%|30萬|每月|[舊戶外幣活存大於指定金額](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=21667#:~:text=Richart好朋友)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2022/06/30。
-[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1%|無上限|每月|[設定樂天信用卡自動扣繳](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>專案到期日：2022/06/30。
+[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1%|無上限|每月|[設定樂天信用卡自動扣繳](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>另有各項任務加碼利率。<br>專案到期日：2022/06/30。
 
 </div>
 
@@ -69,8 +69,8 @@ tags:
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|:---:|:---:|---
 [高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|0.9%|10萬|每月|免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/6/30。
+[遠東銀行 Bankee](https://www.bankee.com.tw)|0.81%|無上限|每月|免費跨轉6次，跨提6次。
 [將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event0002)|0.8%|無上限|每月|免費跨轉66次，跨提6次。<br>專案到期日：2022/5/31。
-[遠東銀行 Bankee](https://www.bankee.com.tw)|0.6%|無上限|每月|免費跨轉6次，跨提6次。
 [LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.5%|無上限|每半年|免費跨轉88次，跨提5次。<br>專案到期日：2022/6/30。
 [樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。
 
