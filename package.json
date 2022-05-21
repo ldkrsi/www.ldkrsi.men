@@ -29,7 +29,7 @@
     "pug": "^3.0.2",
     "sass": "^1.32.11",
     "vinyl": "^2.2.1",
-    "yaml": "^1.10.2"
+    "yaml": "^2.0.0"
   },
   "devDependencies": {
     "dotenv-cli": "^5.0.0",
