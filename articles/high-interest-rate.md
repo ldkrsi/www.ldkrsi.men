@@ -16,6 +16,7 @@ tags:
 
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
+[將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event015)|3%|6萬|每月|免費跨轉66次，跨提6次。<br>專案到期日：2022/8/31。
 [樂天銀行](https://www.rakuten-bank.com.tw)|3%|10萬|每月|[設定樂天信用卡自動扣繳且金額滿3萬](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>自動扣繳且金額滿2萬為2%<br>專案到期日：2022/06/30。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa/index.html)利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>免費跨轉6次，跨提6次。<br>活動截止日：2022/6/30。
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2.2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/06/30。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
