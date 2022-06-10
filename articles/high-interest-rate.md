@@ -16,8 +16,8 @@ tags:
 
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
-[將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event015)|3%|6萬|每月|免費跨轉66次，跨提6次。<br>專案到期日：2022/8/31。
-[樂天銀行](https://www.rakuten-bank.com.tw)|3%|10萬|每月|[設定樂天信用卡自動扣繳且金額滿3萬](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>自動扣繳且金額滿2萬為2%<br>專案到期日：2022/06/30。
+[將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event015)|3%|6萬|每月|免費跨轉66次，跨提6次。<br>[開戶邀請碼](https://mgm.nextbank.com.tw/nxb/7C85X?utm_source=app&utm_medium=link)。<br>專案到期日：2022/8/31。
+[樂天銀行](https://www.rakuten-bank.com.tw)|3%|10萬|每月|[設定樂天信用卡自動扣繳且金額滿3萬](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>自動扣繳且金額滿2萬為2%<br>專案到期日：2022/12/31。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|2.6%|5萬|每月|[好友邀請的活動專案](https://www.bankee.com.tw/event/26Pa/index.html)利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>免費跨轉6次，跨提6次。<br>活動截止日：2022/6/30。
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2.2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/06/30。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|2.06%|30萬|每月|[新戶活動2%利息](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=21667)(舊戶1%)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2022/6/30。<br>推薦開戶[活動](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=22069)領100元，[連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
@@ -42,6 +42,7 @@ tags:
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.2%|12萬|每半年|免費跨轉6次，跨提6次。<br>5,000元起息。<br>專案到期日：2022/12/31。
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|免費跨轉10次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/6/30。
 [永豐銀行 大戶](https://dawho.tw)|1.1%|50萬|每月|免費跨轉+跨提20次。<br>10萬起息。<br>專案到期日：2022/6/30。
+[將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event015)|1%|無上限|每月|免費跨轉66次，跨提6次。<br>專案到期日：2022/8/31。
 [兆豐銀行 MegaLite](https://wwwfile.megabank.com.tw/event/megalite/)|1%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2022/12/31。
 
 </div>
@@ -55,9 +56,10 @@ tags:
 銀行|年利率|額度|入息週期|條件&注意事項
 ---|---:|:---:|:---:|---
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|1.9%|20萬|每月|[每月完成電支和轉帳任務](https://www.skbank.com.tw/8b5c53b616.html)<br>免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/6/30。
+[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1.25%|無上限|每月|[設定樂天信用卡自動扣繳](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>另有各項任務加碼利率。<br>專案到期日：2022/12/31。
 [華南銀行 SnY](https://event.hncb.com.tw/SnY/index.html)|1.2%|10萬|每月|新戶直接送1.2%，舊戶需完成指定任務。<br>另有其他任務加碼至1.5%。<br>詳情看[這份文件](https://www.hncb.com.tw/wps/wcm/connect/226f0e0d-2aa3-426a-b218-07f3fcb36400/111%E5%B9%B4Q2_SnY%E5%B8%B3%E6%88%B6%E5%84%AA%E6%83%A0%E6%B4%BB%E5%8B%95%E6%96%B9%E6%A1%881110126_v5.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-226f0e0d-2aa3-426a-b218-07f3fcb36400-n1RT6jC)。<br>免費跨轉10次，跨提10次。<br>專案到期日：2022/12/31。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC00/RC000000)|1.06%|30萬|每月|[舊戶外幣活存大於指定金額](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=21667#:~:text=Richart好朋友)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2022/06/30。
-[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1%|無上限|每月|[設定樂天信用卡自動扣繳](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)。<br>另有各項任務加碼利率。<br>專案到期日：2022/06/30。
+
 
 </div>
 
@@ -71,7 +73,6 @@ tags:
 ---|---:|:---:|:---:|---
 [高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|0.9%|10萬|每月|免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/6/30。
 [遠東銀行 Bankee](https://www.bankee.com.tw)|0.81%|無上限|每月|免費跨轉6次，跨提6次。
-[將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event0002)|0.8%|無上限|每月|免費跨轉66次，跨提6次。<br>專案到期日：2022/5/31。
 [LINE Bank](https://www.linebank.com.tw/products/detail/01010010001)|0.5%|無上限|每半年|免費跨轉88次，跨提5次。<br>專案到期日：2022/6/30。
 [樂天銀行7天定存](https://www.rakuten-bank.com.tw/portal/product/interest)|0.5%|無上限|每7天|本質是定存，但期數夠短。<br>1萬起存。
 
