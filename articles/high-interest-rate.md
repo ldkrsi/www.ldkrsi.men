@@ -20,7 +20,7 @@ tags:
 [樂天銀行](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)|3%|10萬|每月|設定樂天信用卡自動扣繳且金額滿3萬。<br>自動扣繳且金額滿2萬為2%<br>專案到期日：2022/12/31。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=24307)|2.725%|30萬|每月|新戶加碼2.5%利息(舊戶0.96%)。<br>免費跨轉5次，跨提5次。<br>專案到期日：2023/1/2。<br>[開戶連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>免費跨轉6次，跨提6次。<br>活動截止日：2022/12/31。
-[台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|2.2%|15萬|每月|邀請4位好友開戶。<br>免費跨轉20次，跨提12次。<br>1萬元起息。<br>專案到期日：2022/12/31。
+[台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|2.2%|15萬|每月|邀請4位好友開戶。[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>免費跨轉20次，跨提12次。<br>1萬元起息。<br>專案到期日：2022/12/31。
 [新光銀行 OU](https://www.skbank.com.tw/8b5c53b616.html)|2.025%|20萬|每月|[每月完成電支和轉帳任務](https://www.skbank.com.tw/8b5c53b616.html)<br>免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/12/31。
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2022/07/20。
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/7/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
@@ -37,7 +37,7 @@ tags:
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
 [臺灣銀行數位存款帳戶](https://wwwap.bot.com.tw/2022-deposit/)|1.575%|10萬|每半年|網銀免費跨轉33次。<br>ATM免費跨轉+跨提5次。<br>5,000元起息。<br>專案到期日：2022/12/31。
-[台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每月|免費跨轉20次，跨提12次。<br>1萬元起息。<br>專案到期日：2022/12/31。<br>通過任務能加碼至2.2%。
+[台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每月|免費跨轉20次，跨提12次。<br>[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>專案到期日：2022/12/31。<br>通過任務能加碼至2.2%。
 [上海銀行 Cloud Bank](https://www.scsb.com.tw/content/cloudbank/index.html)|1.4%|30萬|每半年|免費跨轉+跨提10次。<br>1萬元起息。<br>完成指定條件額度加碼至50萬。<br>專案到期日：2022/12/31。
 [永豐銀行 大戶](https://dawho.tw)|1.3%|30萬|每月|免費跨轉+跨提20次。<br>10萬起息。<br>專案到期日：2022/12/31。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每月|免費跨轉10次，跨提10次。<br>1萬元起息。<br>[另有活動](https://www.bankchb.com/frontend/Digitalaccount/news-detail-21.html)加碼利率至1.5%，額度至15萬。<br>專案到期日：2022/12/31。
