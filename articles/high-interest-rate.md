@@ -22,8 +22,8 @@ tags:
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>免費跨轉6次，跨提6次。<br>活動截止日：2022/12/31。
 [台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|2.2%|15萬|每月|邀請4位好友開戶。[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>免費跨轉20次，跨提12次。<br>1萬元起息。<br>專案到期日：2022/12/31。
 [新光銀行 OU](https://www.skbank.com.tw/8b5c53b616.html)|2.025%|20萬|每月|[每月完成電支和轉帳任務](https://www.skbank.com.tw/8b5c53b616.html)<br>免費跨轉5次，跨提5次。<br>5,000元起息。<br>專案到期日：2022/12/31。
-[聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>專案到期日：2022/07/20。
-[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/7/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
+[聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|2%|10萬|每月|免費跨轉10次，跨提10次。<br>另有任務加碼至3%。<br>專案到期日：2023/1/20。
+[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|2%|5萬|每月|免費跨轉88次，跨提5次。<br>專案到期日：2022/9/30。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
 [富邦銀行 數位帳戶](https://ebank.taipeifubon.com.tw/EXT/common/CAA/Index.faces)|2%|5萬|每半年|[每月需以行動支付消費1筆](https://www.fubon.com/banking/event/deposit/20211213/index.html)。<br>專案到期日：2022/12/31。
 
 </div>
