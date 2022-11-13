@@ -17,7 +17,6 @@ tags:
 [購有錢](https://www.goyomoney.com.tw)|現金<br>[150元提領](https://www.goyomoney.com.tw/faq#:~:text=%E9%A0%98%E5%87%BA%E7%8F%BE%E9%87%91%E5%9B%9E%E9%A5%8B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)|
 [Hami購物](https://hamipoint.cht.com.tw/buy)|Hami Point|可直接抵中華電信電話費、網路費
 [亞洲萬里通](https://shop.asiamiles.com/zh/)|亞萬哩程|
-[UUPON](https://uupon.tw/ecStore/ecLinkList.do)|UUPON|
 
 </div>
 
@@ -95,15 +94,6 @@ tags:
     - 點數價值兌現金不是1:1(1點約0.1元)，計算上麻煩
     - 沒有瀏覽器外掛，容易掉回饋
 
-### UUPON
-
-[https://uupon.tw/ecStore/ecLinkList.do](https://uupon.tw/ecStore/ecLinkList.do)
-
-- **缺點**
-    - 通路非常少
-    - 點數價值兌現金不是1:1(1點約0.25元)，計算上麻煩
-    - 沒有瀏覽器外掛，容易掉回饋
-
 ## 通路比較
 
 注意：有些電商在沒活動的情況下會是0%回饋
@@ -115,13 +105,13 @@ tags:
 電商|回饋平台
 ---|---
 蝦皮商城|[LINE](https://buy.line.me/u/partner/880045975297)、[BigGo](https://biggo.com.tw/store/?i=tw_mall_shopeemall)、[亞萬](https://shop.asiamiles.com/zh/department-stores/shopee-taiwan)
-蝦皮購物|[LINE](https://buy.line.me/u/partner/880045975306)
+蝦皮購物|[LINE](https://buy.line.me/u/partner/880045975306)、[ShopBack](https://www.shopback.com.tw/shopee)
 momo|[購有錢](https://www.goyomoney.com.tw/malls/momo)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_momoshop)、[亞萬](https://shop.asiamiles.com/zh/department-stores/momo)
 PChome24h|[LINE](https://buy.line.me/u/partner/4321335)、[ShopBack](https://www.shopback.com.tw/product/search/pchome)、[BigGo](https://biggo.com.tw/store/?i=tw_ec_pchome24h)
 Yahoo購物|[LINE](https://buy.line.me/u/partner/4217674)、[ShopBack](https://www.shopback.com.tw/yahoo-buy)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ybuy)、[購有錢](https://www.goyomoney.com.tw/malls/yahoo)、[Hami](https://hamipoint.cht.com.tw/buy/list/93/view)、[亞萬](https://shop.asiamiles.com/zh/department-stores/yahoo-shopping-taiwan)
 Yahoo拍賣|[LINE](https://buy.line.me/u/partner/4747475)
 博客來|[ShopBack](https://www.shopback.com.tw/books-com-tw)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_books)、[購有錢](https://www.goyomoney.com.tw/malls/books)、[Hami](https://hamipoint.cht.com.tw/buy/list/86/view)、[亞萬](https://shop.asiamiles.com/zh/entertainment-and-leisure/books-com-taiwan)
-樂天市場|[LINE](https://buy.line.me/u/partner/4217685)、[ShopBack](https://www.shopback.com.tw/rakuten)、[BigGo](https://biggo.com.tw/store/?i=tw_pmall_rakuten)、[購有錢](https://www.goyomoney.com.tw/malls/rakuten)、[亞萬](https://shop.asiamiles.com/zh/department-stores/rakuten-taiwan)、[UUPON](https://uupon.tw/ecStore/ecStoreData.do)
+樂天市場|[LINE](https://buy.line.me/u/partner/4217685)、[ShopBack](https://www.shopback.com.tw/rakuten)、[BigGo](https://biggo.com.tw/store/?i=tw_pmall_rakuten)、[購有錢](https://www.goyomoney.com.tw/malls/rakuten)、[亞萬](https://shop.asiamiles.com/zh/department-stores/rakuten-taiwan)
 松果|[LINE](https://buy.line.me/u/partner/4708167)、[ShopBack](https://www.shopback.com.tw/pcone)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_pcone)、[購有錢](https://www.goyomoney.com.tw/malls/pcone)、[Hami](https://hamipoint.cht.com.tw/buy/list/180/view)
 生活市集|[LINE](https://buy.line.me/u/partner/4226253)、[ShopBack](https://www.shopback.com.tw/buy123)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_buy123)、[購有錢](https://www.goyomoney.com.tw/malls/buy123)、[Hami](https://hamipoint.cht.com.tw/buy/list/1/view)
 東森購物|[LINE](https://buy.line.me/u/partner/4321338)、[ShopBack](https://www.shopback.com.tw/etmall)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_etmall)、[購有錢](https://www.goyomoney.com.tw/malls/etmall)、[Hami](https://hamipoint.cht.com.tw/buy/list/163/view)、[亞萬](https://shop.asiamiles.com/zh/department-stores/et-mall)
@@ -185,8 +175,6 @@ Uber Eats|[LINE](https://buy.line.me/u/partner/880044825996)、[ShopBack](https:
 個人建議的配制是，小資族應以LINE、Hami加上現金回饋的三個中選一個你可能會比較常用的平台，消費前先比較3個平台上回饋率，以最優的回饋率去消費。
 
 LINE POINTS是非常主流的點數生態系，可以很簡單的消耗掉。Hami Point在轉換成別的點數時匯率還不差，沒有辦法抵電信費的情況下，轉出就好。前兩者沒涵蓋到或回饋率太差的就以現金回饋的項目來襧補。
-
-和UUPON合作的電商太少，目前回饋率也不佳，應該是沒有什麼非他不可的場合，轉點的匯率也沒Hami Point好看。
 
 亞萬就如上方所說的，消耗通路少，加上轉成其他點數生態系需先累積5000哩程(約500元)，除非本身有在其他通路玩亞萬哩程，不然不推薦使用。
 

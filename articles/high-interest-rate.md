@@ -25,6 +25,7 @@ tags:
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日：2022/12/31。
 [台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|2.2%|15萬|每月|邀請4位好友開戶。[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>專案到期日：2022/12/31。
 [新光銀行 OU](https://www.skbank.com.tw/8b5c53b616.html)|2.15%|20萬|每月|每月完成指定任務。<br>5,000元起息。<br>專案到期日：2022/12/31。
+[第一銀行 iLEO](https://ibank.firstbank.com.tw/NetBank/DigAMA/LandingPage/index.html)|2%|12萬|每月|專案到期日：2023/12/31。<br>[開戶連結](https://firstbk.tw/R47NK/LJwbBt)
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|2%|10萬|每月|專案到期日：2023/1/20。
 [富邦銀行奈米存](https://www.fubon.com/banking/event/deposit/20220701/index.html)|2%|5萬|每半年|每月完成指定任務。<br>專案到期日：2022/12/31。
 
@@ -38,13 +39,12 @@ tags:
 
 銀行|年利率|額度|入息週期|注意事項
 ---|---:|---:|:---:|---
-[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.8%|5萬|每月|專案到期日：2022/10/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
 [臺灣銀行數位存款帳戶](https://wwwap.bot.com.tw/2022-deposit/)|1.7%|10萬|每半年|5000元起息。<br>專案到期日：2022/12/31。
 [台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每月|[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>專案到期日：2022/12/31。
+[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2022/12/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
 [上海銀行 Cloud Bank](https://www.scsb.com.tw/content/cloudbank/index.html)|1.4%|30萬|每半年|1萬元起息。<br>完成指定條件額度加碼至50萬。<br>專案到期日：2022/12/31。
 [永豐銀行 大戶](https://dawho.tw)|1.3%|30萬|每月|10萬起息。<br>專案到期日：2022/12/31。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每月|1萬元起息。<br>[另有活動](https://www.bankchb.com/frontend/Digitalaccount/news-detail-21.html)加碼利率至1.5%，額度至15萬。<br>專案到期日：2022/12/31。
-[第一銀行 iLEO](https://ibank.firstbank.com.tw/NetBank/DigAMA/LandingPage/index.html)|1.2%|12萬|每月|專案到期日：2022/12/31。<br>[夢想帳戶](https://webar.firstbank.com.tw/c000001783/%E9%A0%81%E9%9D%A2?slideIndex=0)另外加碼活存額度。
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.2%|12萬|每半年|5000元起息。<br>專案到期日：2022/12/31。
 [土地銀行數位存款帳戶](https://www.landbank.com.tw/Category/Items/%E6%95%B8%E4%BD%8D%E5%AD%98%E6%AC%BE%E5%B8%B3%E6%88%B6%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6)|1.2%|10萬|每半年|5000元起息。<br>專案到期日：2022/12/31。
 [郵政數位存款](https://epost.post.gov.tw/pstDigit/home.html)|1.2%|10萬|每半年|專案到期日：2022/12/20。

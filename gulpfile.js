@@ -1,13 +1,16 @@
 'use strict';
 
-const gulp = require('gulp');
-const sass = require('gulp-sass')(require('sass'));
-const postcss = require('gulp-postcss');
-const autoprefixer = require('autoprefixer');
-const cssnano = require('cssnano');
-const del = require('del');
-const replace = require('gulp-replace');
-const htmlBuilder = require('./build.js');
+import gulp from 'gulp';
+import dartSass from 'sass';
+import gulpSass from 'gulp-sass';
+import postcss from 'gulp-postcss';
+import autoprefixer from 'autoprefixer';
+import cssnano from 'cssnano';
+import { deleteAsync as del } from 'del'
+import replace from 'gulp-replace';
+import htmlBuilder from './build.js';
+
+const sass = gulpSass(dartSass);
 
 gulp.task('sass', () => {
     return gulp.src('./assets/scss/*.scss')

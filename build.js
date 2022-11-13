@@ -1,14 +1,18 @@
 "use strict";
 
-const fs = require('fs');
-const exec = require('util').promisify(require('child_process').exec);
-const hljs = require('highlight.js');
-const YAML = require('yaml');
-const markdown = require('markdown-it')({ html: true });
-const moment = require('moment');
-const { pugRender, xmlRender } = require('./lib/pugRender');
-const utility = require('./lib/utility');
-const compileTokens = require('./lib/compileTokens');
+import fs from 'fs';
+import { exec as _exec } from 'child_process';
+import util from 'util';
+import hljs from 'highlight.js';
+import YAML from 'yaml';
+import markdownIt from 'markdown-it';
+import moment from 'moment';
+import { pugRender, xmlRender } from './lib/pugRender.js';
+import utility from './lib/utility.js';
+import compileTokens from './lib/compileTokens.js';
+
+const exec = util.promisify(_exec);
+const markdown = markdownIt({ html: true });
 
 const renderOptions = {
 	langPrefix: 'language-',
@@ -113,4 +117,4 @@ function main() {
 
 }
 
-module.exports = utility.myStream(main);
+export default utility.myStream(main);
