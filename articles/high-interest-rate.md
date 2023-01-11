@@ -45,8 +45,8 @@ tags:
 [將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event062)|1.5%|20萬|每月|[開戶邀請碼](https://mgm.nextbank.com.tw/nxb/7C85X?utm_source=app&utm_medium=link)。<br>專案到期日：2023/3/31。
 [台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每月|[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>專案到期日：2023/6/30。
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.5%|12萬|每半年|5000元起息。<br>專案到期日：2023/12/31。
-[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2023/1/2。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
-[彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/index.html)|1.2%|10萬|每月|1萬元起息。<br>另有活動加碼利率至1.6%。<br>專案到期日：2023/12/31。
+[LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2023/3/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
+[彰化銀行 e財寶](https://www.bankchb.com/frontend/bonusDetail.jsp?id=2359)|1.2%|10萬|每半年|1萬元起息。<br>另有活動加碼利率至1.5%。<br>專案到期日：2023/12/31。
 [高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|5千元起息。<br>專案到期日：2023/12/31。
 [遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.06%|無上限|每月|
 

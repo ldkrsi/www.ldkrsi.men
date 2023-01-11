@@ -104,12 +104,10 @@ tags:
 
 電商|回饋平台
 ---|---
-蝦皮商城|[LINE](https://buy.line.me/u/partner/880045975297)、[ShopBack](https://www.shopback.com.tw/shopee)、[BigGo](https://biggo.com.tw/store/?i=tw_mall_shopeemall)、[亞萬](https://shop.asiamiles.com/zh/department-stores/shopee-taiwan)
-蝦皮購物|[LINE](https://buy.line.me/u/partner/880045975306)、[ShopBack](https://www.shopback.com.tw/shopee)、[BigGo](https://biggo.com.tw/store/?i=tw_bid_shopee&tab=top_brand)、
+蝦皮|[LINE(購物)](https://buy.line.me/u/partner/880045975306)、[LINE(商城)](https://buy.line.me/u/partner/880045975297)、[LINE(超市)](https://buy.line.me/u/partner/880045975302)、[ShopBack](https://www.shopback.com.tw/shopee)、[BigGo(購物)](https://biggo.com.tw/store/?i=tw_bid_shopee&tab=top_brand)、[BigGo(商城)](https://biggo.com.tw/store/?i=tw_mall_shopeemall)、[購有錢](https://www.goyomoney.com.tw/malls/shopee-mall)、[亞萬(商城)](https://shop.asiamiles.com/zh/department-stores/shopee-taiwan)
 momo|[BigGo](https://biggo.com.tw/store/?i=tw_pec_momoshop)、[亞萬](https://shop.asiamiles.com/zh/department-stores/momo)
 PChome24h|[LINE](https://buy.line.me/u/partner/4321335)、[ShopBack](https://www.shopback.com.tw/product/search/pchome)、[BigGo](https://biggo.com.tw/store/?i=tw_ec_pchome24h)
 Yahoo購物|[LINE](https://buy.line.me/u/partner/4217674)、[ShopBack](https://www.shopback.com.tw/yahoo-buy)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ybuy)、[購有錢](https://www.goyomoney.com.tw/malls/yahoo)、[Hami](https://hamipoint.cht.com.tw/buy/list/93/view)、[亞萬](https://shop.asiamiles.com/zh/department-stores/yahoo-shopping-taiwan)
-Yahoo拍賣|[LINE](https://buy.line.me/u/partner/4747475)
 博客來|[ShopBack](https://www.shopback.com.tw/books-com-tw)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_books)、[購有錢](https://www.goyomoney.com.tw/malls/books)、[Hami](https://hamipoint.cht.com.tw/buy/list/86/view)、[亞萬](https://shop.asiamiles.com/zh/entertainment-and-leisure/books-com-taiwan)
 樂天市場|[LINE](https://buy.line.me/u/partner/4217685)、[ShopBack](https://www.shopback.com.tw/rakuten)、[BigGo](https://biggo.com.tw/store/?i=tw_pmall_rakuten)、[購有錢](https://www.goyomoney.com.tw/malls/rakuten)、[亞萬](https://shop.asiamiles.com/zh/department-stores/rakuten-taiwan)
 松果|[LINE](https://buy.line.me/u/partner/4708167)、[ShopBack](https://www.shopback.com.tw/pcone)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_pcone)、[購有錢](https://www.goyomoney.com.tw/malls/pcone)、[Hami](https://hamipoint.cht.com.tw/buy/list/180/view)
@@ -126,10 +124,11 @@ Yahoo拍賣|[LINE](https://buy.line.me/u/partner/4747475)
 
 電商|回饋平台
 ---|---
-foodpanda|[ShopBack](https://www.shopback.com.tw/foodpanda)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_foodpanda)、[亞萬](https://shop.asiamiles.com/zh/food-and-drink/foodpanda-taiwan)
-Uber Eats|[LINE](https://buy.line.me/u/partner/880044825996)、[ShopBack](https://www.shopback.com.tw/ubereats)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ubereats)
+foodpanda|[LINE](https://buy.line.me/u/partner/880048504724)、[ShopBack](https://www.shopback.com.tw/foodpanda)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_foodpanda)、[亞萬](https://shop.asiamiles.com/zh/food-and-drink/foodpanda-taiwan)
+Uber Eats|[LINE](https://buy.line.me/u/partner/880044825996)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ubereats)
+肯德基|[LINE](https://buy.line.me/u/partner/880048550763)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_kfc&tab=rank)、[購有錢](https://www.goyomoney.com.tw/malls/kfcclub)、[Hami](https://hamipoint.cht.com.tw/buy/list/356/view)
+Pizza Hut|[BigGo](https://biggo.com.tw/store/?i=tw_pec_pizzahut&tab=top_brand)、[購有錢](https://www.goyomoney.com.tw/malls/pizzahut)、[Hami](https://hamipoint.cht.com.tw/buy/list/235/view)、[亞萬](https://shop.asiamiles.com/zh/food-and-drink/pizza-hut-taiwan)
 家樂福|[LINE](https://buy.line.me/u/partner/4747427)、[ShopBack](https://www.shopback.com.tw/online-carrefour)、[BigGo](https://biggo.com.tw/store/?i=tw_ec_carrefour)、[購有錢](https://www.goyomoney.com.tw/malls/carrefour)、[Hami](https://hamipoint.cht.com.tw/buy/list/79/view)、[亞萬](https://shop.asiamiles.com/zh/department-stores/carrefour-taiwan)
-全聯|[LINE](https://buy.line.me/u/partner/880046517615)
 
 </div>
 
