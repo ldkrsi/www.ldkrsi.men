@@ -125,7 +125,7 @@ Yahoo購物|[LINE](https://buy.line.me/u/partner/4217674)、[ShopBack](https://w
 電商|回饋平台
 ---|---
 foodpanda|[LINE](https://buy.line.me/u/partner/880048504724)、[ShopBack](https://www.shopback.com.tw/foodpanda)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_foodpanda)、[亞萬](https://shop.asiamiles.com/zh/food-and-drink/foodpanda-taiwan)
-Uber Eats|[LINE](https://buy.line.me/u/partner/880044825996)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ubereats)
+Uber Eats|[LINE](https://buy.line.me/u/partner/880048402376)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_ubereats)
 肯德基|[LINE](https://buy.line.me/u/partner/880048550763)、[BigGo](https://biggo.com.tw/store/?i=tw_pec_kfc&tab=rank)、[購有錢](https://www.goyomoney.com.tw/malls/kfcclub)、[Hami](https://hamipoint.cht.com.tw/buy/list/356/view)
 Pizza Hut|[BigGo](https://biggo.com.tw/store/?i=tw_pec_pizzahut&tab=top_brand)、[購有錢](https://www.goyomoney.com.tw/malls/pizzahut)、[Hami](https://hamipoint.cht.com.tw/buy/list/235/view)、[亞萬](https://shop.asiamiles.com/zh/food-and-drink/pizza-hut-taiwan)
 家樂福|[LINE](https://buy.line.me/u/partner/4747427)、[ShopBack](https://www.shopback.com.tw/online-carrefour)、[BigGo](https://biggo.com.tw/store/?i=tw_ec_carrefour)、[購有錢](https://www.goyomoney.com.tw/malls/carrefour)、[Hami](https://hamipoint.cht.com.tw/buy/list/79/view)、[亞萬](https://shop.asiamiles.com/zh/department-stores/carrefour-taiwan)
