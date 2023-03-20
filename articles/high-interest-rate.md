@@ -19,7 +19,6 @@ tags:
 [將來銀行](https://www.nextbank.com.tw/announcement/45c1e31fa40000000285cadc56793797/event064)|3.505%|5萬|每月|限新戶。<br>[開戶邀請碼](https://mgm.nextbank.com.tw/nxb/7C85X?utm_source=app&utm_medium=link)。<br>專案到期日：2023/3/31。
 [國泰世華青年子帳戶](https://www.cathaybk.com.tw/cathaybk/campaign/ebanking/2022H2youthacct/)|3.375%|5萬|半年|限25歲以下。<br>5,000元起息。<br>專案到期日：2023/6/30。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=27407)|3.2%|10萬|每月|限新戶。<br>專案到期日：2023/7/2。<br>[開戶連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
-[樂天銀行](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)|3%|10萬|每月|每月完成指定任務。<br>專案到期日：2023/2/28。
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|3%|10萬|每月|每月完成指定任務。<br>專案到期日：2023/7/20。
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日：2023/3/31。
 [華南銀行 SnY](https://event.hncb.com.tw/sny/discount.html)|2.3%|10萬|每月|專案到期日：2023/12/31。
@@ -48,7 +47,7 @@ tags:
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2023/3/31。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/bonusDetail.jsp?id=2359)|1.2%|10萬|每半年|1萬元起息。<br>另有活動加碼利率至1.5%。<br>專案到期日：2023/12/31。
 [高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|5千元起息。<br>專案到期日：2023/12/31。
-[遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.06%|無上限|每月|
+[遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.185%|無上限|每月|
 
 </div>
 
@@ -60,7 +59,7 @@ tags:
 
 銀行|年利率|額度|入息週期|條件&注意事項
 ---|---:|:---:|:---:|---
-[樂天銀行](https://www.rakuten-bank.com.tw/portal/campaign/Rakutencard)|1.35%|無上限|每月|每月完成指定任務。<br>專案到期日：2023/2/28。
+[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1.35%|無上限|每月|每月完成指定任務。<br>專案到期日：2023/3/31。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=27407)|1.3%|30萬|每月|外幣活存大於指定金額或開立台新證券交割戶。<br>專案到期日：2023/7/2。
 
 </div>
