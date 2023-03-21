@@ -42,8 +42,8 @@ block css
 		include css/highlight.js/default.css
 
 block main
+	h1.container #{title}
 	article.container
-		h1 #{title}
 		.datetime 發佈日期：#{metadata.created_at}#{metadata.created_at === metadata.update_at ? '' : `；上次更新：${metadata.update_at}`}
 		if ads
 			.ad-container

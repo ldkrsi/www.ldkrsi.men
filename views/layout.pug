@@ -27,7 +27,21 @@ html(lang='zh-hant')
 	body
 		amp-auto-ads(type='adsense' data-ad-client='ca-pub-2406372780002585')
 		if production
-			amp-analytics(config='https://www.googletagmanager.com/amp.json?id=GTM-5LVTNND&gtm.url=SOURCE_URL' data-credentials='include')
+			-
+				var ga4 = {
+					"vars": {
+						"GA4_MEASUREMENT_ID": "G-PRC34VJJRH",
+						"GA4_ENDPOINT_HOSTNAME": "www.google-analytics.com",
+						"DEFAULT_PAGEVIEW_ENABLED": true,    
+						"GOOGLE_CONSENT_ENABLED": false,
+						"WEBVITALS_TRACKING": false,
+						"PERFORMANCE_TIMING_TRACKING": false,
+						"SEND_DOUBLECLICK_BEACON": false
+					}
+				};
+			amp-analytics(type='googleanalytics' config=`${url.origin}/ga4.json` data-credentials='include')
+				script(type='application/json').
+					!{JSON.stringify(ga4)}
 		header
 			.container
 				.brand
@@ -44,6 +58,6 @@ html(lang='zh-hant')
 		main
 			block main
 		footer
-			.container.copyright ldkrsi's Blog © 2021
+			.container.copyright ldkrsi's Blog © #{new Date().getFullYear()}
 		button#scrollToTopButton.scrollToTop(on='tap:page-top.scrollTo(duration=200)')
 			amp-img(src=`${url.origin}/assets/images/arrow-up.svg` layout='responsive' width=100 height=100)
