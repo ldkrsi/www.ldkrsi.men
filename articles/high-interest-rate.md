@@ -29,7 +29,7 @@ tags:
 
 </div>
 
-### 1.185% 以上未滿 2% (無條件)
+### 1.31% 以上未滿 2% (無條件)
 
 無額外條件或條件僅滿足起息金額就有 1% 以上的高利活存(且未滿 2%)。
 
@@ -45,13 +45,13 @@ tags:
 [台企銀 Hokii](https://hibank.tbb.com.tw/TBBHiBank/H57/digital-deposit/index.html)|1.5%|15萬|每月|[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>專案到期日：2023/6/30。
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.5%|12萬|每半年|5000元起息。<br>專案到期日：2023/12/31。
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2023/6/30。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
+[遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.31%|無上限|每月|
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/introduction-twd.html)|1.2%|10萬|每半年|1萬元起息。<br>另有活動加碼利率至1.6%。<br>專案到期日：2023/12/31。
-[高雄銀行 雄Hoyaa](https://ssl.bok.com.tw/hoyaa/hoyaa.html)|1.2%|10萬|每月|5千元起息。<br>專案到期日：2023/12/31。
-[遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.185%|無上限|每月|
+
 
 </div>
 
-### 1.185% 以上未滿 2% (有條件)
+### 1.31% 以上未滿 2% (有條件)
 
 要滿足一定條件才享有 1% 以上的高利活存(且未滿 2%)。
 
@@ -60,8 +60,7 @@ tags:
 銀行|年利率|額度|入息週期|條件&注意事項
 ---|---:|:---:|:---:|---
 [樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1.35%|無上限|每月|每月完成指定任務。<br>專案到期日：2023/6/30。
-[台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=27407)|1.3%|30萬|每月|外幣活存大於指定金額或開立台新證券交割戶。<br>專案到期日：2023/7/2。
-[京城銀行 goyee](https://customer.ktb.com.tw/new/note/f46f4860)|1.28%|30萬|每月|10萬起息。<br>交割戶<br>專案到期日：2023/5/31。
+
 
 </div>
 
