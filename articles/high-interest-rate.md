@@ -20,6 +20,7 @@ tags:
 [國泰世華青年子帳戶](https://www.cathaybk.com.tw/cathaybk/campaign/ebanking/2022H2youthacct/)|3.5%|5萬|半年|限25歲以下。<br>5,000元起息。<br>專案到期日：2023/6/30。
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=27407)|3.2%|10萬|每月|限新戶。<br>專案到期日：2023/7/2。<br>[開戶連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|3%|10萬|每月|每月完成指定任務。<br>專案到期日：2023/7/20。
+[Richart 街利存](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=29167)|3%|5萬|每月|每月完成指定任務。<br>專案到期日：2023/9/30。
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日：2023/6/30。
 [新光銀行 OU](https://www.skbank.com.tw/8b5c53b616.html)|2.4%|20萬|每月|每月完成指定任務。<br>專案到期日：2023/6/30。
 [華南銀行 SnY](https://event.hncb.com.tw/sny/discount.html)|2.3%|10萬|每月|專案到期日：2023/12/31。
