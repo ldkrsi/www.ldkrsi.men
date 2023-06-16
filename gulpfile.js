@@ -1,7 +1,7 @@
 'use strict';
 
 import gulp from 'gulp';
-import dartSass from 'sass';
+import * as dartSass from 'sass'
 import gulpSass from 'gulp-sass';
 import postcss from 'gulp-postcss';
 import autoprefixer from 'autoprefixer';
