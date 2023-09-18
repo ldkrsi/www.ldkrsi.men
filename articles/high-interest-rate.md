@@ -20,11 +20,10 @@ tags:
 [台新銀行 Richart](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=30047)|3.2%|10萬|每月|限新戶。<br>專案到期日：2024/1/1。<br>[開戶連結](https://richart.tw/TSDIB_RichartWeb/RC07/RC070100?sn=5M6RQ)。
 [永豐銀行 大戶](https://dawho.tw/about/saving/)|3%|5萬|每月|限18~19歲。<br>專案到期日：2023/12/31。
 [國泰世華青年子帳戶](https://www.cathaybk.com.tw/cathaybk/campaign/ebanking/2022H2youthacct/)|3%|5萬|每半年|限25歲以下。<br>5,000元起息。<br>專案到期日：2023/12/31。
-[Richart 街利存](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=29167)|最高3%|5萬|每月|每月完成指定任務。<br>專案到期日：2023/9/30。
+[Richart 街利存](https://richart.tw/TSDIB_RichartWeb/RC02/RC020201?announceNo=29167)|最高3%|5萬|每月|每月完成指定任務。<br>專案到期日：2023/11/2。
 [遠東銀行 Bankee](https://www.bankee.com.tw/event/26Pa/index.html)|2.6%|5萬|每月|好友邀請的活動專案利率。<br>[活動邀請連結](https://www.appbankee.com.tw/bankee/rest/re/FCE99)。<br>活動截止日：2023/12/31。
 [新光銀行 OU](https://www.skbank.com.tw/campaign/skbankOU/)|2.4%|20萬|每月|每月完成指定任務。<br>專案到期日：2023/12/31。
 [華南銀行 SnY](https://event.hncb.com.tw/sny/discount.html)|2.3%|10萬|每月|專案到期日：2023/12/31。
-[富邦銀行奈米存](https://www.fubon.com/banking/event/deposit/202307DSA/index.html)|2.167%|15萬|每半年|限新戶。<br>僅前3個月。<br>專案到期日：2023/12/31。
 [王道銀行](https://www.o-bank.com/web/event/cm_108022801/index.html)|2%|20萬|每月|完成指定任務。<br>專案到期日：2023/11/9。
 [第一銀行 iLEO](https://ibank.firstbank.com.tw/NetBank/DigAMA/LandingPage/index.html)|2%|12萬|每月|專案到期日：2023/12/31。<br>[開戶連結](https://firstbk.tw/R47NK/LJwbBt)
 [聯邦銀行 New New Bank](https://newnewbank.com.tw/ntd_demand_deposits.htm)|2%|10萬|每月|另有活動加碼利率至3%。<br>專案到期日：2024/1/20。
@@ -48,7 +47,7 @@ tags:
 [台企銀 Hokii](https://camp.tbb.com.tw/digital-deposit/home)|1.5%|15萬|每月|[開戶連結](https://ebank.tbb.com.tw/nb3/DIGITAL/ACCOUNT/apply_digital_account?openExternalBrowser=1&EMPNO=AB02499)<br>1萬元起息。<br>另有活動加碼利率至2.1%。<br>專案到期日：2024/1/20。
 [合作金庫數位帳戶](https://actlink.tcb-bank.com.tw/linepay/v1.0.0/digitalDep)|1.5%|12萬|每半年|5000元起息。<br>專案到期日：2023/12/31。
 [LINE Bank 口袋帳戶](https://www.linebank.com.tw/products/detail/01010010004/01)|1.5%|5萬|每月|專案到期日：2023/9/30。<br>[開戶連結](https://www.linebank.com.tw/R/mgm-event/invitation?mgm=101000763369)。
-[遠東銀行 Bankee](https://www.bankee.com.tw/Bankee-2.html)|1.31%|無上限|每月|
+[遠東銀行 Bankee](https://www.bankee.com.tw/deposit.html)|1.31%|無上限|每月|
 
 </div>
 
@@ -60,7 +59,7 @@ tags:
 
 銀行|年利率|額度|入息週期|條件&注意事項
 ---|---:|:---:|:---:|---
-[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1.35%|無上限|每月|每月完成指定任務。<br>專案到期日：2023/7/31。
+[樂天銀行](https://www.rakuten-bank.com.tw/portal/product/twd-time-deposit)|1.35%|無上限|每月|每月完成指定任務。<br>專案到期日：2023/9/30。
 [彰化銀行 e財寶](https://www.bankchb.com/frontend/Digitalaccount/introduction-twd.html)|1.2%|10萬|每半年|1萬元起息。<br>另有活動加碼利率至1.6%。<br>專案到期日：2023/12/31。
 
 </div>
